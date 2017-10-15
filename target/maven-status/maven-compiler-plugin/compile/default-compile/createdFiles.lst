@@ -1,0 +1,12 @@
+com/topru/telegrambot/mysql/data/RpUser.class
+com/topru/telegrambot/bots/Bot.class
+com/topru/telegrambot/bots/WakfuRpBot$RpRaces.class
+com/topru/telegrambot/Program.class
+com/topru/telegrambot/bots/WakfuRpBot.class
+timer/DataUpdate.class
+com/topru/telegrambot/mysql/RpManager.class
+com/topru/telegrambot/mysql/data/User.class
+com/topru/telegrambot/mysql/SqlManager.class
+timer/RpUserUpdate.class
+com/topru/telegrambot/mysql/SqlManager$UserCategory.class
+com/topru/telegrambot/mysql/RuntimeSqlExecutor.class

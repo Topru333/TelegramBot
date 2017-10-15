@@ -1,0 +1,352 @@
+2017-10-15 17:40:16 INFO  SqlManager:106 - Connected
+2017-10-15 17:40:16 INFO  SqlManager:140 - Disconnected
+2017-10-15 17:40:17 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:40:17 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:40:17 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:40:17 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:40:17 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:40:17 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:41:17 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:41:17 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:41:17 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:41:17 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:41:17 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:41:17 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:42:07 INFO  Bot:65 - Topru : null
+2017-10-15 17:42:17 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:42:17 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:42:17 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:42:17 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:42:17 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:42:17 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:42:29 INFO  Bot:65 - Topru : null
+2017-10-15 17:43:36 INFO  SqlManager:106 - Connected
+2017-10-15 17:43:36 INFO  SqlManager:140 - Disconnected
+2017-10-15 17:43:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:43:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:43:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:43:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:43:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:43:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:44:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:44:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:44:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:44:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:44:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:44:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:44:53 INFO  Bot:65 - Алекс : null
+2017-10-15 17:45:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:45:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:45:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:45:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:45:37 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:45:37 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:46:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:46:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:46:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:46:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:46:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:46:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:47:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:47:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:47:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:47:37 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:47:37 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:47:37 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:47:41 INFO  Bot:65 - Topru : null
+2017-10-15 17:48:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:48:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:48:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:48:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:48:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:48:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:49:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:49:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:49:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:49:36 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:49:36 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:49:36 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:50:31 INFO  SqlManager:106 - Connected
+2017-10-15 17:50:31 INFO  SqlManager:140 - Disconnected
+2017-10-15 17:50:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:50:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:50:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:50:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:50:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:50:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:50:38 INFO  Bot:65 - Topru : fsdfds
+2017-10-15 17:51:05 INFO  Bot:65 - Topru : получилось
+2017-10-15 17:51:08 INFO  Bot:65 - Topru : ^^
+2017-10-15 17:51:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:51:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:51:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:51:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:51:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:51:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:52:16 INFO  Bot:65 - Topru : Пусть пока что поработает в тестовом режиме
+2017-10-15 17:52:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:52:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:52:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:52:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:52:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:52:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:52:32 INFO  Bot:65 - Topru : если хотите попробовать зарегаться милости прошу к нему в личку
+2017-10-15 17:53:08 INFO  Bot:65 - Topru : напишите  /help и он выдаст инфу что вводить для регистрации
+2017-10-15 17:53:19 INFO  Bot:65 - Topru : за помощь с тестом буду благодарен
+2017-10-15 17:53:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:53:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:53:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:53:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:53:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:53:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:54:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:54:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:54:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:54:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:54:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:54:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:55:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:55:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:55:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:55:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:55:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:55:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:56:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:56:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:56:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:56:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:56:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:56:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:57:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:57:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:57:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:57:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:57:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:57:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:58:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:58:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:58:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:58:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:58:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:58:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:59:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:59:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:59:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 17:59:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 17:59:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 17:59:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:00:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:00:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:00:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:00:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:00:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:00:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:01:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:01:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:01:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:01:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:01:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:01:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:02:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:02:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:02:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:02:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:02:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:02:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:03:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:03:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:03:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:03:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:03:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:03:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:04:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:04:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:04:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:04:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:04:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:04:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:05:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:05:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:05:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:05:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:05:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:05:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:06:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:06:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:06:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:06:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:06:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:06:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:07:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:07:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:07:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:07:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:07:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:07:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:08:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:08:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:08:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:08:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:08:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:08:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:09:16 INFO  Bot:65 - Alex : /help
+2017-10-15 18:09:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:09:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:09:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:09:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:09:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:09:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:09:38 INFO  Bot:65 - Alex : /myinfo
+2017-10-15 18:09:41 INFO  Bot:65 - Silveyn : ммм
+2017-10-15 18:09:53 INFO  Bot:65 - Topru : это в приват
+2017-10-15 18:09:59 INFO  Bot:65 - Alex : /register
+2017-10-15 18:10:06 INFO  Bot:65 - Topru : в приваааат
+2017-10-15 18:10:07 INFO  Bot:65 - Topru : 😆
+2017-10-15 18:10:16 INFO  Bot:65 - Silveyn : пхх
+2017-10-15 18:10:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:10:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:10:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:10:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:10:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:10:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:10:37 INFO  Bot:65 - Alex : хехехе,соррян,ьашка не варит после пати -_-
+2017-10-15 18:10:43 INFO  Bot:65 - Topru : все норм
+2017-10-15 18:10:52 INFO  Bot:65 - Topru : более того я понял что хелп почему то на все чаты один
+2017-10-15 18:10:54 INFO  Bot:65 - Topru : пойду исправлять
+2017-10-15 18:11:13 INFO  Bot:65 - Alex : ну вот полезное дело сделал я,лол
+2017-10-15 18:11:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:11:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:11:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:11:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:11:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:11:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:11:39 INFO  Bot:65 - Alex : /start
+2017-10-15 18:11:50 INFO  Bot:65 - Alex : /registr
+2017-10-15 18:12:00 INFO  Bot:65 - Alex : /help
+2017-10-15 18:12:06 INFO  Bot:65 - Alex : /register
+2017-10-15 18:12:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:12:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:12:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:12:31 INFO  RuntimeSqlExecutor:84 - Connected
+2017-10-15 18:12:31 INFO  RuntimeSqlExecutor:51 - Executed
+2017-10-15 18:12:31 INFO  RuntimeSqlExecutor:67 - Disconnected
+2017-10-15 18:12:44 INFO  Bot:65 - Topru : если что
+2017-10-15 18:12:50 INFO  Bot:65 - Topru : для того чтобы зарегаться нужно ввести
+2017-10-15 18:12:55 INFO  Bot:65 - Topru : /register никнейм
+2017-10-15 18:13:28 INFO  SqlManager:106 - Connected
+2017-10-15 18:13:28 INFO  SqlManager:140 - Disconnected
+2017-10-15 18:13:29 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:13:29 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:13:29 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:13:29 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:13:29 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:13:29 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:13:34 INFO  Bot:65 - Topru : /help
+2017-10-15 18:13:40 INFO  Bot:65 - Topru : вот другое дело
+2017-10-15 18:13:41 INFO  Bot:65 - Topru : :D
+2017-10-15 18:13:51 INFO  Bot:65 - Silveyn : вот пидарас
+2017-10-15 18:14:29 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:14:29 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:14:29 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:14:29 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:14:29 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:14:29 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:14:29 INFO  Bot:65 - Topru : После комманды регистрации будет выведен список классов и останется просто тыкнуть кнопку
+2017-10-15 18:14:44 INFO  Bot:65 - Topru : Опыт набирается относительно того как часто пишут
+2017-10-15 18:15:03 INFO  Bot:65 - Topru : кстати да, нужно бы это описать в хелпе в приват
+2017-10-15 18:15:29 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:15:29 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:15:29 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:15:29 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:15:29 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:15:29 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:16:29 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:16:29 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:16:29 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:16:29 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:16:29 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:16:29 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:17:06 INFO  SqlManager:106 - Connected
+2017-10-15 18:17:06 INFO  SqlManager:140 - Disconnected
+2017-10-15 18:17:06 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:17:06 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:17:06 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:17:06 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:17:06 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:17:06 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:17:14 INFO  Bot:65 - Topru : /help
+2017-10-15 18:18:06 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:18:06 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:18:06 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:18:06 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:18:06 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:18:06 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:18:10 INFO  SqlManager:106 - Connected
+2017-10-15 18:18:10 INFO  SqlManager:140 - Disconnected
+2017-10-15 18:18:11 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:18:11 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:18:11 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:18:11 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:18:11 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:18:11 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:18:15 INFO  Bot:65 - Topru : /help
+2017-10-15 18:19:11 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:19:11 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:19:11 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:19:11 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:19:11 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:19:11 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:20:11 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:20:11 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:20:11 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:20:11 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:20:11 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:20:11 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:20:55 INFO  SqlManager:106 - Connected
+2017-10-15 18:20:55 INFO  SqlManager:140 - Disconnected
+2017-10-15 18:20:59 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:20:59 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:20:59 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:21:01 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:21:01 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:21:01 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:21:41 INFO  Bot:65 - Topru : sasdas
+2017-10-15 18:21:41 INFO  Bot:65 - Topru : dasdasda
+2017-10-15 18:22:07 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:22:07 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:22:07 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:22:09 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:22:09 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:22:09 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:22:38 INFO  SqlManager:106 - Connected
+2017-10-15 18:22:38 INFO  SqlManager:140 - Disconnected
+2017-10-15 18:22:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:22:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:22:38 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:22:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:22:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:22:38 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:23:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:23:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:23:38 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:23:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:23:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:23:38 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:24:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:24:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:24:38 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:24:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:24:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:24:38 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:25:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:25:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:25:38 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:25:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:25:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:25:38 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:26:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:26:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:26:38 INFO  RuntimeSqlExecutor:72 - Disconnected
+2017-10-15 18:26:38 INFO  RuntimeSqlExecutor:89 - Connected
+2017-10-15 18:26:38 INFO  RuntimeSqlExecutor:56 - Executed
+2017-10-15 18:26:38 INFO  RuntimeSqlExecutor:72 - Disconnected

@@ -1,0 +1,10 @@
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/com/topru/telegrambot/bots/WakfuRpBot.java
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/com/topru/telegrambot/mysql/SqlManager.java
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/com/topru/telegrambot/Program.java
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/com/topru/telegrambot/mysql/RpManager.java
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/com/topru/telegrambot/mysql/RuntimeSqlExecutor.java
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/com/topru/telegrambot/mysql/data/User.java
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/com/topru/telegrambot/mysql/data/RpUser.java
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/timer/RpUserUpdate.java
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/com/topru/telegrambot/bots/Bot.java
+/home/topru/NetBeansProjects/TelegramBot/src/main/java/timer/DataUpdate.java
